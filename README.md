@@ -12,4 +12,4 @@ FCM一开始只是通过实名认证(认证您的中华人民共和国居民身�
 如果您支持我的这个项目,请您在Issues中发布一个Issue表示支持。您也可以将此文翻译为其他语言并开启Pull request。如果您希望贡献您的游戏源代码(或者模板),请在/games/(名称) 中创建文件并开启Pull request。
 
 ---
-其他语言: **[简体中文](https://github.com/cheny0y0/fcm-opposition/README.md)**
+其他语言: **[简体中文](https://github.com/cheny0y0/fcm-opposition/blob/master/README.md)**
